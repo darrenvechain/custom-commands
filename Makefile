@@ -1,0 +1,3 @@
+commands:|
+	@echo "building all commands"
+	@go install ./cmd/...
